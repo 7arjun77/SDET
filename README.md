@@ -1,2 +1,2 @@
 # SDET
-Comprehensive Assignment
+Capstone Project
